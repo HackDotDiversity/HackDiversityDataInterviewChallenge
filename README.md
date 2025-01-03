@@ -1,3 +1,4 @@
+
 # Hack.Diversity Data Interview: Product Inclusion Analysis Challenge
 
 ## Overview
@@ -14,8 +15,24 @@ This challenge assesses the following skills:
 
 ## Preparation and Setup
 
-1. **Fork the Repository**: Clone the provided repository. If no starter repo is provided, create a new one and commit your work frequently.
-2. **Make Meaningful Commits**: Ensure each significant task (e.g., data cleaning, feature engineering, etc.) has its own commit to track progress. Clear, descriptive commit messages will showcase your work methodology effectively.
+1. **Create a New Private Repository**
+   - Log in to your GitHub account.
+   - Click on the "+" sign in the top-right corner and select **New repository**.
+   - Name your repository appropriately (e.g., `HackDiversity-2025-DataChallenge`).
+   - Ensure the repository visibility is set to **Private**.
+
+2. **Clone and Push**
+   - Clone the original repository to your local machine using the provided link (`git clone` command).
+   - Push the cloned content to your newly created private repository.
+
+3. **Add Hack.Diversity as a Collaborator**
+   - Navigate to your new private repository on GitHub.
+   - Click on the **Settings** tab.
+   - In the left menu, select **Collaborators and teams**.
+   - Click **Add people** and invite the GitHub account `HackDotDiversity` as a collaborator.
+
+4. **Make Meaningful Commits**
+   - Ensure each significant task (e.g., data cleaning, feature engineering, etc.) has its own commit to track progress. Clear, descriptive commit messages will showcase your work methodology effectively.
 
 ## Instructions
 
@@ -77,4 +94,4 @@ Your submission will be evaluated on the following:
 - **Modeling & Accuracy**: Clarity in model choice and interpretation of results.
 - **Presentation**: Clear explanations with supporting visualizations.
 
-Good luck, and showcase your best analysis skills!
+Good luck, and showcase your best analysis skills👾!
